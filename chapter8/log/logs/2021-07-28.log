@@ -1,0 +1,4 @@
+2021-07-28 10:49:48,280 log8-4.py ---> <module> 41 INFO ---> this is my info log
+2021-07-28 10:49:48,280 log8-4.py ---> <module> 42 INFO ---> 测试中文
+2021-07-28 10:49:48,280 log8-4.py ---> <module> 43 ERROR ---> this is my error log
+2021-07-28 10:49:48,280 log8-4.py ---> <module> 44 CRITICAL ---> this is my critical log

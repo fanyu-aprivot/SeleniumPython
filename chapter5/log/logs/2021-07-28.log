@@ -1,0 +1,12 @@
+2021-07-28 17:02:48,639 register_ddt_case_withlog.py ---> setUp 31 INFO ---> 正在创建Chrome对象======
+2021-07-28 17:02:50,089 register_ddt_case_withlog.py ---> setUp 33 INFO ---> 正在访问url======
+2021-07-28 17:03:14,270 register_ddt_case_withlog.py ---> tearDown 51 INFO ---> 正在关闭Chrome对象======
+2021-07-28 17:03:14,422 register_ddt_case_withlog.py ---> setUp 31 INFO ---> 正在创建Chrome对象======
+2021-07-28 17:03:15,851 register_ddt_case_withlog.py ---> setUp 33 INFO ---> 正在访问url======
+2021-07-28 17:03:38,712 register_ddt_case_withlog.py ---> tearDown 51 INFO ---> 正在关闭Chrome对象======
+2021-07-28 17:59:27,965 register_ddt_case_withlog.py ---> setUp 31 INFO ---> 正在创建Chrome对象======
+2021-07-28 17:59:30,231 register_ddt_case_withlog.py ---> setUp 33 INFO ---> 正在访问url======
+2021-07-28 17:59:46,475 register_ddt_case_withlog.py ---> tearDown 51 INFO ---> 正在关闭Chrome对象======
+2021-07-28 17:59:46,843 register_ddt_case_withlog.py ---> setUp 31 INFO ---> 正在创建Chrome对象======
+2021-07-28 17:59:49,071 register_ddt_case_withlog.py ---> setUp 33 INFO ---> 正在访问url======
+2021-07-28 18:00:01,031 register_ddt_case_withlog.py ---> tearDown 51 INFO ---> 正在关闭Chrome对象======
